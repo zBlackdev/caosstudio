@@ -1,9 +1,8 @@
 {
   "serverConfig": {
     "name": "CAOSLAND",
-    "subName": "TEMPORADA 1 - SURVIVAL",
-    "mcVersion": "1.20.1",
-    "forgeVersion": "47.2.0",
+    "mcVersion": "1.18.2",
+    "forgeVersion": "1.18.2-forge-40.2.0",
     "modpackUrl": "https://tu-link-directo-a-los-mods.zip"
   },
   "announcements": [
@@ -20,13 +19,5 @@
       "date": "05/03/2026"
     }
   ],
-  "visitors": [
-    {
-      "name": "",
-      "minecraftName": "zSxmy",
-      "type": "Premium",
-      "ip": "186.132.238.82",
-      "date": "4/3/2026, 12:06:11"
-    }
-  ]
+  "visitors": []
 }
