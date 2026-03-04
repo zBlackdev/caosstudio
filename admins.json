@@ -1,15 +1,24 @@
 {
-  "system": {
-    "maintenanceMode": false,
-    "forceUpdate": false
+  "serverConfig": {
+    "name": "CAOSLAND",
+    "subName": "TEMPORADA 1 - SURVIVAL",
+    "mcVersion": "1.20.1",
+    "forgeVersion": "47.2.0",
+    "modpackUrl": "https://tu-link-directo-a-los-mods.zip"
   },
-  "news": [
+  "announcements": [
     {
-      "title": "mine",
-      "content": "caosland",
-      "date": "3/3/2026"
+      "type": "NUEVO",
+      "title": "BIENVENIDO A CAOSLAND",
+      "content": "El sistema ha sido forjado. La temporada 1 ha comenzado oficialmente para todos los ciudadanos.",
+      "date": "03/03/2026"
+    },
+    {
+      "type": "EVENTO",
+      "title": "TORNEO CEO",
+      "content": "Preparen sus armas. El primer torneo de combate se realizará este fin de semana.",
+      "date": "05/03/2026"
     }
   ],
-  "visitors": [],
-  "users": []
+  "visitors": []
 }
