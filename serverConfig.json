@@ -1,0 +1,17 @@
+{
+  "name": "CAOSLAND",
+  "subName": "TEMPORADA 1",
+  "mcVersion": "1.20.1",
+  "forgeVersion": "1.20.1-forge-47.4.16",
+  "modpackUrl": "",
+  "showNews": true,
+  "maintenanceMode": false,
+  "strictMode": false,
+  "announcements": [
+    {
+      "title": "BIENVENIDO",
+      "type": "NUEVO",
+      "content": "El sistema ha sido forjado."
+    }
+  ]
+}
